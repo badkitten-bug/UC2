@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jun  1 11:29:39 2022
+Created on Wed Jun  1 11:30:39 2022
 
-@author: Edgar Cusi
+@author: Gomez Steve
 """
 
 import os
