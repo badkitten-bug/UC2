@@ -7,7 +7,7 @@ Created on Wed Jun  1 09:37:01 2022
 #Tenemos una cadena llamada nombre y se desea que se modifique el formato
 import camelcase
 
-nombre = "edgar raul cusi osccorima"
+nombre = "Gomez Huamani Steve"
 
 print(nombre.upper())
 
@@ -25,5 +25,5 @@ print(cam.hump(nombre))
 #al definir el objeto incluimos los argumentos 
 #flor y león
 
-cam2 = camelcase.CamelCase('edgar','cusi')
+cam2 = camelcase.CamelCase('Steve','Gomez')
 print(cam2.hump(nombre))
