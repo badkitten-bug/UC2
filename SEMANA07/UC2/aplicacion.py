@@ -2,7 +2,7 @@
 """
 Created on Wed Jun  1 11:42:14 2022
 
-@author: Edgar Cusi
+@author: Gomez Steve
 """
 
 import gestion_archivos
@@ -42,7 +42,7 @@ def salir():
     print("Gracias por su visita, vuelva pronto")
 
 def error():
-    print("Opción Incorrecta >:v")
+    print("Opción Incorrecta ")
 
 
 opcion = 1
